@@ -1,2 +1,2 @@
 # Inneriah
-Inneriah farms: agrivoltaic farm hub — PAYG energy + marketplace
+Inneriah farms: farm hub — PAYG energy + marketplace
